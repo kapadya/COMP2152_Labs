@@ -17,7 +17,7 @@ print("Question 3 result: ", e)
 temperature = 32.6
 print("The temperature today is: {:.3f} degrees Celsius".format(temperature))
 
-#5.
+#5. User input
 userAge = int(input("Please enter your age: "))
 userAge = userAge + 22
 print("Now showing shop items filtered by age: ", userAge)
